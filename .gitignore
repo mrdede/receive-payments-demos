@@ -3,4 +3,6 @@ db.sqlite
 *.pyc
 *.pyo
 python/venv/*
-ruby/config/settings.local.yml
+ruby/config/settings.local.ymlf
+
+.idea
